@@ -1,7 +1,6 @@
 # Delta
 
-- Error
-  Delta is a responsive website in React using Styled Components
+Delta is a responsive website in React using Styled Components
 
 ## Live Demo
 
